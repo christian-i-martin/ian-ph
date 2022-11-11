@@ -4,24 +4,25 @@
 
 ### Languages
 - PHP (primary)
-- JS
+- Javascript
+- Typescript
 
 ### Frameworks
-- Laravel 4.0 - Present
-- Symfony 1.0 - Present
-- Express
+- Laravel 4.0 - Laravel 9.x
+- Symfony 1.0 - Symfony 6.x
+- Express / Node.js
 
 ## Front End Expertise
 
 ### Languages
-- JS (Vanilla, ES6, Typescript)
+- JS (Vanilla, Typescript)
 - CSS
 - HTML5
 
 ### Frameworks
 - React (Redux, MobX, MST)
 - Angular
-- AngularJS
+- AngularJS (1.x)
 - Vue
 - Sass
 
@@ -32,22 +33,28 @@
 ### DBMS
 - MySQL
 - SQL Server
-- Postgres SQL
+- Postgres
 - MongoDB
+- DynamoDB
 - RavenDB
 
 ## Server
 ### AWS
-- AWS API
-- EC2 Autoscaling / Load Balancing
-- VPS, Network Security
-- Cloundfront / S3
+- EC2
+- VPS
+- Cloundfront
+- S3
 - SQS
+- Lambda
+- API Gateway
+- Cognito
+- Beanstalk
 
-### LAMP/LEMP Stack
-- Apache Web Server
-- Nginx Reverse Proxy
-
+### Web Server
+- Apache 2
+- Nginx
+- Laravel Octane
+- Express
 
 ## CI/CD
 ### AWS
@@ -57,19 +64,22 @@
 ### Bitbucket
 - BitBucket Pipelines
 
+### Serverless
+- Serverless JS
+
 ## Misc
 ### Package Management
 - Composer
-- nmp
+- NPM
 - CocoaPods
 
 ### Caching
 - Redis
 - Memcached
 
-### Queuing
+### Queue
 - AWS SQS
 - RabbitMQ
 
-### Source Control
+### Version Control
 - Git
