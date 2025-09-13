@@ -19,7 +19,7 @@
 - Postgres
 - RavenDB
 
-## Server
+## Server Management
 ### AWS
 - EC2
 - RDS
