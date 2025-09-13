@@ -1,85 +1,47 @@
 # Full Stack Software Developer since 2008
 
-## Back End Expertise
+## Software Development Expertise
 
 ### Languages
-- PHP (primary)
-- Javascript
 - Typescript
+- PHP
 
 ### Frameworks
-- Laravel 4.0 - Laravel 9.x
-- Symfony 1.0 - Symfony 6.x
+- React and React Native
+- Laravel
 - Express / Node.js
 
-## Front End Expertise
-
-### Languages
-- JS (Vanilla, Typescript)
-- CSS
-- HTML5
-
-### Frameworks
-- React (Redux, MobX, MST)
-- Angular
-- AngularJS (1.x)
-- Vue
-- Sass
-
-### Mobile Apps
-- React Native
-
-## Database
 ### DBMS
 - MySQL
-- SQL Server
-- Postgres
 - MongoDB
 - DynamoDB
+- SQL Server
+- Postgres
 - RavenDB
 
 ## Server
 ### AWS
 - EC2
+- RDS
 - VPS
 - Cloundfront
 - S3
 - SQS
 - Lambda
 - API Gateway
-- Cognito
-- Beanstalk
+- CloudWatch
+- Auto scaling
 
 ### Web Server
+- Express
 - Apache 2
 - Nginx
 - Laravel Octane
-- Express
 
-## CI/CD
-### AWS
+### CI/CD
 - CodeDeploy
+- CodeBuild
 - CodePipeline
-
-### Bitbucket
 - BitBucket Pipelines
-
-### Serverless
-- Serverless JS
-
-## Misc
-### Package Management
-- Composer
-- NPM
-- CocoaPods
-
-### Caching
-- Redis
-- Memcached
-
-### Queue
-- AWS SQS
-- RabbitMQ
-
-### Version Control
-- Git
+- Github Actions
+- Bitrise
